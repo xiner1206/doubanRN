@@ -1,0 +1,3 @@
+rootProject.name = 'BMReact'
+
+include ':app'
